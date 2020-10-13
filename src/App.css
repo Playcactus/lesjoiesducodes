@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-brand{
+  background-color:black;
+  border-radius: 5px;
+  font-size: 24px;
+  padding: 8px;
+
+}
+
+.nav-link{
+  font-size: 18px;
+}
+
+.button-2 {
+  margin-left: 20px;
+  font-size:21px;
+}
+
+.recherche{
+  width: 150px;
+}
+
+.bloque1{
+  margin-top: 100px;
+  border: black;
+
+}
+
+.poste{
+  color:white;
+}
+
