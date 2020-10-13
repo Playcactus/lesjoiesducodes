@@ -58,13 +58,39 @@
   width: 150px;
 }
 
-.bloque1{
-  margin-top: 100px;
-  border: black;
-
-}
-
 .poste{
   color:white;
 }
 
+
+.bloque1{
+  margin-top: 100px;
+  border: black;
+  margin-left: 22%;
+  height: 500px;
+  width:650px;
+  font-size: 24px;
+  
+}
+
+.text1{
+  margin-right: 20%;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.sociaux{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.bloque2{
+  margin-top: 100px;
+  border: black;
+  margin-right: 25%;
+  margin-left: 100px;
+}
+
+.video{
+  margin-right: 20%;
+}
